@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanukas-byte" alt="chanukas-byte" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack , Kotlin Python**
+- 🌱 I’m currently learning **MERN Stack , Kotlin, Python**
 
 - 📫 How to reach me **chanukasenevirathne24@gmail.com**
 
